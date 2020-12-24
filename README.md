@@ -24,3 +24,5 @@ to now use it:
 4-than click on load
 
 *make sure to report any bug in the report section*
+
+check the realease section for download
